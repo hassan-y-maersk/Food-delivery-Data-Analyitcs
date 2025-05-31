@@ -1,0 +1,9 @@
+Q1. Print the total number of orders.
+Q2. Find the total revenue generated.
+Q3. Count how many orders were successfully delivered.
+Q4. Find how many orders were rated 5 stars.
+Q5. Print the name of customers who used "Cash" for payment.
+Q6. Find the city with the highest number of orders.
+Q7. How many "Burger" items were ordered in total?
+Q8. Find the average delivery time.
+Q9. List all unique food items.
